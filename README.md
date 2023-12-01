@@ -1,6 +1,6 @@
 -  Hi, I’m @Ekiizu
--  I’m interested in 
--  I’m currently learning ...
+-  I’m interested in Persona
+-  I’m currently studying Creatiec Computing in IADT
 -  How to reach me ...
 
 <!---
