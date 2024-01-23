@@ -1,6 +1,6 @@
 -  Hi, I’m @Ekiizu
--  I’m interested in Persona
--  I’m currently studying Creatiec Computing in IADT
+-  I’m interested in the Persona Series
+-  I’m currently studying Creative Computing in IADT
 -  How to reach me ...
 
 <!---
