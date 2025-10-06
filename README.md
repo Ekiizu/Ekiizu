@@ -1,7 +1,7 @@
 -  Hi, I’m @Ekiizu
--  I’m interested in the Persona Series
+-  I’m interested in the Persona and Pokémon Series
 -  I’m currently studying Creative Computing in IADT
--  How to reach me @Ekiizu on Instagram or Emma Ann Hynes on LinkedIn
+-  How to reach me @Zexrii on Instagram or Emma Ann Hynes on LinkedIn
 
 <!---
 Ekiizu/Ekiizu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
