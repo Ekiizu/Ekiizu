@@ -11,4 +11,4 @@ Hi, I'm Emma or @Ekiizu
 - LinkedIn: https://www.linkedin.com/in/emma-ann-hynes/
 
 - ## Interests
-- I love Pokémon, Cats and the Persona Series!
+- I love Pokémon, Cats and Tea
