@@ -1,10 +1,14 @@
--  Hi, I’m @Ekiizu
--  I’m interested in the Persona and Pokémon Series
--  I’m currently studying Creative Computing in IADT
--  How to reach me @Zexrii on Instagram or Emma Ann Hynes on LinkedIn
--  I am an Aspiring UX/UI Designer!
+Hi, I'm Emma or @Ekiizu
 
-<!---
-Ekiizu/Ekiizu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ## About Me
+
+- Computing student with a background in art and design!
+- Interested in UX/UI, interaction design and front-end development
+- Currently working with React, JavaScript, HTML, CSS.
+
+- ## Contact
+
+- LinkedIn: [https://www.linkedin.com/in/emma-ann-hynes/]
+
+- ## Interests
+- I love Pokémon, Cats and the Persona Series!
